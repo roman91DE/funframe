@@ -1,0 +1,6 @@
+/.ruff_cache
+/.venv
+/allTypes.csv
+/iris.csv
+/iris_altSep.csv
+/iris_no_header.csv
