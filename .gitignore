@@ -4,3 +4,5 @@
 /iris.csv
 /iris_altSep.csv
 /iris_no_header.csv
+/.mypy_cache
+/__pycache__
