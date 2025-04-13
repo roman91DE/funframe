@@ -1,0 +1,5 @@
+is_active,age,weight,name
+True,28,72.5,Alice
+False,35,81.0,Bob
+true,22,65.2,Charlie
+false,30,70,Dana
